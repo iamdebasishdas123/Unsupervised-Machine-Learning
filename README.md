@@ -1,2 +1,4 @@
 # Unsupervised-Machine-Learning
-- K means Clustering
+## Topics covered in this repository include:
+- K-means Clustering
+- DBSCAN
